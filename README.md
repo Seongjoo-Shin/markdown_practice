@@ -44,3 +44,24 @@ this is horizontal line
 [my link](http://www.google.com)
 
 ---
+
+| Syntax | Description | Test |
+| ---------- | ---------- | ---------- |
+| Header | Title | test |
+| Paragraph | Text | test |
+
+---
+
+```
+{
+    “firstName” : “John”,
+    “lastName” : “Smith”
+    “age” : 25
+}
+```
+
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
